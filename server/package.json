@@ -55,7 +55,7 @@
     "ansi-regex": "latest",
     "express": "latest",
     "express-basic-auth": "latest",
-    "semver": "^7.6.3",
+    "semver": "latest",
     "socket.io": "latest"
   }
 }

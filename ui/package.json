@@ -4,22 +4,22 @@
   "license": "Apache-2.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.4.0",
-    "@testing-library/user-event": "^7.2.1",
-    "@types/jest": "24.0.23",
-    "@types/node": "12.12.14",
-    "@types/react": "16.9.14",
-    "@types/react-dom": "16.9.4",
-    "@types/socket.io-client": "^1.4.32",
-    "immer": "^5.0.1",
-    "immutability-helper": "^3.0.1",
-    "react": "^16.12.0",
-    "react-debounce-input": "^3.2.2",
-    "react-dom": "^16.12.0",
-    "react-scripts": "^3.3.0",
-    "socket.io-client": "^2.3.0",
-    "typescript": "3.7.3"
+    "@testing-library/jest-dom": "latest",
+    "@testing-library/react": "latest",
+    "@testing-library/user-event": "latest",
+    "@types/jest": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/socket.io-client": "latest",
+    "immer": "latest",
+    "immutability-helper": "latest",
+    "react": "latest",
+    "react-debounce-input": "latest",
+    "react-dom": "latest",
+    "react-scripts": "latest",
+    "socket.io-client": "latest",
+    "typescript": "latest"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -43,6 +43,6 @@
     ]
   },
   "devDependencies": {
-    "node-sass": "^4.14.1"
+    "node-sass": "latest"
   }
 }
